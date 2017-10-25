@@ -1,8 +1,8 @@
 # Build files.
-dist
+#dist
 examples/build.dev.js
 examples/build.prod.js
-lib
+#lib
 
 # Temporary files.
 bench/output
